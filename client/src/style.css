@@ -1,0 +1,28 @@
+.card {
+  padding: 50px;
+  border: 1px solid;
+  text-align: center;
+  font-size: 30px;
+  width: 50%;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.bold {
+  font-size: 25px;
+  width: 50%;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 1px solid rgb(0, 0, 0);
+  padding: 10px;
+}
+
+/* label { 
+  display: block; 
+} */
